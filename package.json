@@ -1,0 +1,25 @@
+{
+  "name": "twitch-bot-uvt",
+  "version": "1.0.0",
+  "description": "Bot de Twitch para precio de UVT y funciones varias",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "twitch",
+    "bot",
+    "cryptocurrency",
+    "uvt"
+  ],
+  "author": "0xjuandi",
+  "license": "MIT"
+}
